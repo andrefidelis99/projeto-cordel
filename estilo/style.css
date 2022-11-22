@@ -67,7 +67,6 @@ section.imagem > p {
 
 section > p {
     padding-bottom: 2em;
-    text-shadow: 1px 1px 0px black;
 }
 
 section.normal {
@@ -81,6 +80,7 @@ section.imagem {
     background-position: right center;
     background-size: cover;
     background-attachment: fixed;
+    text-shadow: 1px 1px 0px black;
 }
 
 section#img01 {
